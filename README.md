@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋, I'm Patrick</h1>
-<h3 align="center">42 Paris Student (begginer)</h3>
+<h1 align="center">Hello There 🌻, I'm Patrick</h1>
+<h3 align="center">42 Paris Student</h3>
 
 - 🔭 I’m currently working on **42 Common Core**
 
-- 🌱 I’m currently learning **C and Python**
+- 🌱 I’m currently learning **C & Python**
 
-- 📫 How to reach me **patrick.misztal@icloud.com**
+- 📫 How to reach me **patrick.misztalf2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
