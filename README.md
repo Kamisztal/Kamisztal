@@ -1,7 +1,5 @@
 # Hello there 🌻
 
-### 42 Paris Student
-
 ## About Me
 
 <p align="center">
