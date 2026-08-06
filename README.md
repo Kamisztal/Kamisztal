@@ -18,10 +18,6 @@
   </a>
 </p>
 
-## Projects
-
-<p align="center"><img src="https://github-readmeapp.vercel.app/api/pin/?username=Kamisztal&repo=Connect-4&theme=tokyonight&hide_border=true" alt="Connect-4" /> <img src="https://github-readmeapp.vercel.app/api/pin/?username=Kamisztal&repo=Libft&theme=tokyonight&hide_border=true" alt="Libft" /></p>
-
 ## Contact
 
 <p align="center">
