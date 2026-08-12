@@ -26,12 +26,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gribouillagee)
 </p>
 
-## Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kamisztal&theme=tokyonight&hide_border=true&border_radius=15" alt="Streak Stats" />
-</p>
-
 ---
 
 <p align="center">⭐ From <a href="https://github.com/Kamisztal">Kamisztal</a> with love</p>
