@@ -20,8 +20,7 @@ kamisztal@42paris:~$ cat interests.txt
 > Economics
 > Understanding how the world works
 
-kamisztal@42paris:~$ make future
-Nothing to be done... yet.
+Build in a cave, with a box of scraps :)
 ```
 ## 42 Progression
 
