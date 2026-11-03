@@ -20,7 +20,6 @@ kamisztal@42paris:~$ cat interests.txt
 > Economics
 > Understanding how the world works
 
-Built in a cave, with a box of scraps :)
 ```
 ## 42 Progression
 
