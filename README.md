@@ -25,7 +25,7 @@ kamisztal@42paris:~$ cat interests.txt
 
 ```text
  Libft ──────► ft_printf ──────► get_next_line ──────► Born2beroot ──────► ...
- [done]       [in progress]        [next]               [next]
+ [done]          [done]             [next]               [next]
 ```
 
 ## Projects
