@@ -33,7 +33,7 @@ kamisztal@42paris:~$ cat interests.txt
 | Project | What it is | Status |
 |---|---|---|
 | [Libft](https://github.com/Kamisztal/Libft) | My own C library, recoded from scratch at 42 | ![completed](https://img.shields.io/badge/completed-A8C8F0?style=flat-square) |
-| [ft_printf](https://github.com/Kamisztal/ft_printf) | My own `printf` | ![in progress](https://img.shields.io/badge/in%20progress-D6E0F0?style=flat-square) |
+| [ft_printf](https://github.com/Kamisztal/ft_printf) | My own `printf` | ![completed](https://img.shields.io/badge/completed-A8C8F0?style=flat-square) |
 | [Connect-4](https://github.com/Kamisztal/Connect-4) | Connect Four game | ![in progress](https://img.shields.io/badge/in%20progress-D6E0F0?style=flat-square) |
 | [ft_snake](https://github.com/SplatchAFK/ft_snake) | Snake game in C | ![in progress](https://img.shields.io/badge/in%20progress-D6E0F0?style=flat-square) |
 
