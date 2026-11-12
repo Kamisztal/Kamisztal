@@ -6,21 +6,6 @@
   </a>
 </p>
 
-## About Me
-
-```console
-kamisztal@42paris:~$ whoami
-pmisztal
-
-kamisztal@42paris:~$ cat interests.txt
-> Cybersecurity
-> Artificial Intelligence
-> Video games
-> Movies
-> Economics
-> Understanding how the world works
-
-```
 ## 42 Progression
 
 ```text
